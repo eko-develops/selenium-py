@@ -35,4 +35,5 @@ pip install -r requirements.txt
 
 [Command Line Switches for Chromium](https://peter.sh/experiments/chromium-command-line-switches/) - Chrome driver options arguments  
 [Chrome Driver Capabilities](https://chromedriver.chromium.org/capabilities) - Options to customize and configure a `ChromeDriver` session  
+[Locator Strategies](https://www.selenium.dev/documentation/webdriver/elements/locators/) - How to use locator strategies
 [Expected Conditions for WebDriverWait](https://www.selenium.dev/selenium/docs/api/py/webdriver_support/selenium.webdriver.support.expected_conditions.html) - Functions to use with locator strategies
